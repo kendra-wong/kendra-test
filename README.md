@@ -6,3 +6,4 @@ hello this is a test
 hello test test
 
 This is in the new branch
+This is another line
